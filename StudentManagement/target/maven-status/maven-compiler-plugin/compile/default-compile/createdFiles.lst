@@ -1,0 +1,8 @@
+controller\LoginServlet.class
+rest\StudentAPI.class
+model\DBConnection.class
+controller\LogoutServlet.class
+rest\ApplicationConfig.class
+controller\StudentServlet.class
+model\StudentDAO.class
+bean\Student.class
